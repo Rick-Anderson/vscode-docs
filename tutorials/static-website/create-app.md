@@ -6,6 +6,7 @@ PageTitle: Create the application
 MetaDescription: Website deployment to Azure Storage with Visual Studio Code
 DateApproved: 6/27/2018
 ---
+
 # Create your Node.js application
 
 In this section, you will create a simple static website that can be deployed to the cloud. This tutorial uses [create-react-app](https://github.com/facebook/create-react-app), a React utility CLI, to quickly scaffold out a simple React app from the terminal. However, if you want to use Angular, Vue, any other framework, or just a folder with a few HTML files, those will all work too.
